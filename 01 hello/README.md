@@ -3,7 +3,7 @@
 To run this example, run:
 
 ```sh
-java -jar <SimData JAR file> --simulation hello.simulation --scene hello.simulation
+java -jar <SimData JAR file> --simulation hello.simulation --scene hello.json
 ```
 
 ### Expected output
